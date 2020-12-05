@@ -34,3 +34,5 @@ I think you should use an
 COS DODANE
 
 Druga wersja
+
+trzecia wersja
